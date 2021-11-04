@@ -1,17 +1,18 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#800000",
   "dir": "ltr",
   "display": "standalone",
-  "name": "resources.rhit",
+  "name": "Rose Resources",
   "orientation": "any",
   "scope": "/",
-  "short_name": "resources.rhit",
-  "start_url": "/",
-  "theme_color": "#ffffff",
+  "short_name": "Rose Resources",
+  "start_url": "/start",
+  "theme_color": "#800000",
   "icons": [
-    {
-      "src": "/favicon.ico",
-      "type": "image/x-icon"
-    }
+      {
+          "src": "/assets/img/logo.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
   ]
 }
